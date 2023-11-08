@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/*
+Paleta de cores:
+#40B398 ; #008062 ; #14B38D ; #256657 ; #5CFFD9
+*/
+header {
+    background-color: #14B38D;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+nav {
+    text-align: left;
+}
+nav > a {
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+main {
+background-color: #40B398;
+}
+
+article {
+    background-color: white;
+    color: #256657;
+    padding: 10px;
+    margin: 0px 250px 0px 250px;
+}
+
+article > p {
+    color: black;
+    text-align: justify;
+    text-indent: 30px;
+}
+article > h3 {
+    background-color: #40b3982c;
+}
+
+footer {
+    background-color: #256657;
+    color: white;
+    text-align: center;
+}
